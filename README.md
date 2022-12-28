@@ -2,9 +2,7 @@
 
 My very own Protocol 6 Agar.io client for private servers
 
-<p align="center">
   <img src="https://cdn.glitch.global/2d6e8d70-57a5-4dd2-b4bb-c1505f83f020/JPTRAGAR.png" alt="woo"/>
-</p>
 
 ## Information
 This is a heavily modified version of [Cigar2](https://github.com/Cigar2/Cigar2). Originally this project started back in 2020 during quaranetine until I decided to leave on the shelf. I finally got back to it and made a new version of Cigar2 because it hasn't had a update since December of 2021.
